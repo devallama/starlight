@@ -1,0 +1,21 @@
+{
+    "name": "starlight",
+    "displayName": "starlight",
+    "description": "Starlight theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Starlight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Starlight-color-theme.json"
+            }
+        ]
+    }
+}
